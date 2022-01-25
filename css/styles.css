@@ -1,8 +1,9 @@
 body {
-    background-color: blueviolet;
+    background-color: #03a1fc;
+    border-radius: 10px;
     font-family: verdana;
     text-align: center;
 }
 div {
-    color: yellow;
+    color: rgb(1, 10, 1);
 }
