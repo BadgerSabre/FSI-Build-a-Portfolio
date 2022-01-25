@@ -1,6 +1,7 @@
 body {
     background-color: blueviolet;
-    font-family: Papyrus;
+    font-family: verdana;
+    text-align: center;
 }
 div {
     color: yellow;
