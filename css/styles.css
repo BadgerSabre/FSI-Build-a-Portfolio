@@ -1,6 +1,4 @@
 body {
-    background-image: linear-gradient(to right,#03a1fc,#033dfc);
-    border-radius: 10px;
     font-family: verdana;
     text-align: center;
 }
@@ -10,4 +8,11 @@ img {
 }
 div {
     color: rgb(1, 10, 1);
+}
+#grad {
+    background-image: linear-gradient(to right,#03a1fc,#033dfc);
+}
+div1 {
+    background-color: #d6bd30;
+    border-radius: 5px;
 }
