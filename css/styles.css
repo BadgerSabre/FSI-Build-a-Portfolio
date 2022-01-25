@@ -1,6 +1,7 @@
 body {
     font-family: verdana;
     text-align: center;
+    background-image: linear-gradient(to right,#03a1fc,#033dfc);
 }
 img {
     background-color: #d6bd30;
@@ -8,9 +9,6 @@ img {
 }
 div {
     color: rgb(1, 10, 1);
-}
-#grad {
-    background-image: linear-gradient(to right,#03a1fc,#033dfc);
 }
 div1 {
     background-color: #d6bd30;
